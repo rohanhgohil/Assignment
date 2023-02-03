@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Group Assignment</title>
+</head>
+<body>
+This is index page
+</body>
+</html>
